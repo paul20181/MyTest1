@@ -1,1 +1,3 @@
 Ion lucreaza in dev1.
+
+Am facut modificari ce nu pot fi comise.
